@@ -1,0 +1,16 @@
+vendor
+.idea
+composer.lock
+composer.phar
+
+# Log files
+*.log
+*.tmp
+
+
+# OS log files
+*~
+*.swp
+.directory
+.DS_Store*
+._*

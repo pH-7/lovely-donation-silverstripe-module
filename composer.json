@@ -1,0 +1,25 @@
+{
+  "name": "ph7/lovely-donation",
+  "description": "Nice lovely donation module",
+  "type": "silverstripe-module",
+  "homepage": "https://github.com/pH-7/lovely-donation-silverstripe-module",
+  "keywords": ["silverstripe", "donation", "stripe", "payment"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Pierre-Henry Soria",
+      "email": "hi@ph7.me",
+      "homepage": "http://ph7.me"
+    }
+  ],
+  "require": {
+    "silverstripe/cms": "^4",
+    "silverstripe/framework": "^4"
+  },
+  "support": {
+    "issues": "https://github.com/pH-7/lovely-donation-silverstripe-module/issues"
+  },
+  "extra": {
+    "installer-name": "lovely-donation"
+  }
+}
